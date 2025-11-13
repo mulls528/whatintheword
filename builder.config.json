@@ -1,0 +1,6 @@
+{
+  "command": "npm run dev",
+  "serverUrl": "http://sarahmuller/Desktop/THESIS/Laughter-Scripture/mulls528.github.io/whatintheword",
+  "authenticateProxy": false,
+  "commitMode": "commits"
+}
